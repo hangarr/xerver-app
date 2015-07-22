@@ -1,6 +1,6 @@
 # xerver-app
-## Example xerver module Express app
+## Example xerver app module
 A simple example of an xerver app.  
 
-This app adds a Express router module and a single api endpoint that returns the version number of the node.js server running the server and app.
+This app adds a single api endpoint that returns the version number of the node.js system running the app.
 
