@@ -1,0 +1,11 @@
+{
+  "name": "xerver-app",
+  "version": "1.0.0",
+  "description": "Example xerver app module",
+  "main": ".",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick Hangartner",
+  "license": "ISC"
+}
