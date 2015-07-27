@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rick Hangartner",
-  "license": "ISC"
+  "license": "ISC",
+  "engines": {
+    "node": ">= 0.10.0"
+  }
 }
